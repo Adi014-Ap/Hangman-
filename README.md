@@ -1,2 +1,2 @@
 # Hangman-
-A word guessing game 
+Hangman is a classic word-guessing game implemented using Python and Tkinter. The player attempts to guess the letters of a hidden word within a limited number of attempts, with an interactive GUI-based interface built using Tkinter. This project demonstrates the use of Python fundamentals such as loops, conditionals, functions, and string manipulation, along with GUI development skills. Hangman provides an engaging user experience and is designed to be easily extendable for future improvements, such as adding word categories, difficulty levels, or enhanced graphics.
